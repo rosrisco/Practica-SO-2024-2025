@@ -1,0 +1,3 @@
+/home/rosaliarisco/Escritorio/P3/cmake-build-debug/CMakeFiles/P3.dir
+/home/rosaliarisco/Escritorio/P3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rosaliarisco/Escritorio/P3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
